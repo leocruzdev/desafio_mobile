@@ -40,9 +40,9 @@ Este projeto apresenta uma solução completa para a visualização de um mapa, 
 
 ## Screens:
 
-   <img src="https://github.com/leocruzdev/desafio_mobile/blob/3121270565a82095a0b09b0c9e8bf71f42702a1a/app/src/main/res/drawable/bycoders_11.png"  width="200"/>
+   <img src="https://github.com/leocruzdev/desafio_mobile/blob/3121270565a82095a0b09b0c9e8bf71f42702a1a/app/src/main/res/drawable/bycoders_11.png"  width="500"/>
    
-   <img src="https://github.com/leocruzdev/desafio_mobile/blob/3121270565a82095a0b09b0c9e8bf71f42702a1a/app/src/main/res/drawable/bycoders_10.png"  width="200"/>
+   <img src="https://github.com/leocruzdev/desafio_mobile/blob/3121270565a82095a0b09b0c9e8bf71f42702a1a/app/src/main/res/drawable/bycoders_10.png"  width="500"/>
    
    
    <img src="https://github.com/ByCodersTec/desafio_mobile/blob/db38bfacd9066b3fd706b374771b51eaaa59e4dc/app/src/main/res/drawable/bycoders_1.png"  width="200"/>
